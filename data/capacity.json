@@ -1,0 +1,52 @@
+{
+  "title": "High-puff disposable capacity snapshot, Australia",
+  "kind": "desk snapshot, not a laboratory assay",
+  "hardware_reviewed": "2026-08-20",
+  "pdf_edition": "2026-11-10",
+  "catalogue_prices_valid_from": "2026-11-08",
+  "adults": "18+",
+  "canonical": "https://www.alibarbarigetvape.com/research/high-puff-disposable-capacity-australia-2026",
+  "pdf": "https://www.alibarbarigetvape.com/research/high-puff-disposable-capacity-australia-2026.pdf",
+  "author": "Jason Smith",
+  "publisher": "Alibarbar Australia",
+  "reference_device": {
+    "name": "Alibarbar Ingot 9000",
+    "puff_rating": "up to 9000 puffs, usage dependent",
+    "e_liquid_ml": 22,
+    "battery_mah": 2350,
+    "rechargeable": false,
+    "charge_port": false,
+    "coil": "mesh",
+    "activation": "inhale-activated",
+    "display": "LED for battery and e-liquid",
+    "nicotine": "pack label is the source of truth; not one site-wide number",
+    "catalogue_boundary": "This shop lists the Ingot 9000 only, not an Ingot 20000."
+  },
+  "observed_ranges": {
+    "headline_puff_band": "about 1900 to 9000 for sealed units commonly listed; some rechargeable names advertise 10000 or more",
+    "typical_compact_tank_ml": "about 2 to 12",
+    "reference_tank_ml": 22,
+    "dual_led": "uncommon among tracked competitor models",
+    "note": "Ranges, not one SKU per brand. Rechargeable high-puff names are a different class of device."
+  },
+  "shop_prices_aud": {
+    "note": "Merchandise only, this shop, from 2026-11-08. Confirm the product page. Regular Post is extra except an order of 20 or more devices.",
+    "ingot_9000_single": 42,
+    "ingot_9000_pack_3": 120,
+    "ingot_9000_pack_5": 190,
+    "ingot_9000_pack_10": 350,
+    "ingot_9000_pack_20": 640,
+    "regular_post": {
+      "devices_1_to_4": 10,
+      "devices_5_to_9": 15,
+      "devices_10_to_19": 20,
+      "devices_20_plus": 0
+    }
+  },
+  "limitations": [
+    "Not a lab assay of aerosol output or nicotine delivery.",
+    "Competitor specs change by model and region.",
+    "Not medical or legal advice.",
+    "Not a TGA lawful-supply determination."
+  ]
+}

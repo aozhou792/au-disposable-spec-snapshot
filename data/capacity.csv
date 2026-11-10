@@ -1,0 +1,13 @@
+record_type,field,value,unit,scope,as_of
+reference,device,Alibarbar Ingot 9000,,this catalogue,2026-08-20
+reference,puff_rating,up to 9000,puffs,manufacturer rating; usage dependent; not a guaranteed count,2026-08-20
+reference,e_liquid,22,ml,pre-filled,2026-08-20
+reference,battery,2350,mAh,sealed; non-rechargeable; no charge port,2026-08-20
+reference,coil,mesh,,inhale-activated,2026-08-20
+reference,display,LED battery and e-liquid,,,2026-08-20
+reference,nicotine,pack label,,not one site-wide number,2026-08-20
+reference,catalogue_boundary,Ingot 9000 only,,Ingot 20000 is not in this catalogue,2026-08-20
+range,sealed_puff_band,about 1900 to 9000,puffs,commonly listed sealed units; not one SKU per brand,2026-08-20
+range,rechargeable_puff_claims,10000 or more advertised,puffs,different device class; do not merge into the sealed row,2026-08-20
+range,compact_tank,about 2 to 12,ml,familiar compact models in the same desk pass,2026-08-20
+range,dual_led,uncommon,,tracked competitor models,2026-08-20

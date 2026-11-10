@@ -1,0 +1,16 @@
+# AU disposable spec snapshot
+
+Canonical: https://www.alibarbarigetvape.com/research/high-puff-disposable-capacity-australia-2026
+PDF: https://www.alibarbarigetvape.com/research/high-puff-disposable-capacity-australia-2026.pdf
+Hardware reviewed: 2026-08-20
+PDF edition: 2026-11-10
+Adults: 18+
+
+This repository is a public table copy. The canonical write-up is the page above.
+
+- data/capacity.json — reference device, ranges, dated shop prices
+- data/capacity.csv — hardware rows
+- led-readings.md — Ingot 9000 LED
+- disposal-checklist.md — sealed-device disposal, Australia
+
+Not a laboratory assay. Not medical or legal advice.
